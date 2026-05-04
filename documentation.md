@@ -2,7 +2,7 @@
 
 This web site provides some basic documentation. Additional documentation can be found at the following links.
 
-*   DTSA-II Video Tuturials on YouTube
+### DTSA-II Video Tuturials on YouTube
 
 *   [Introduction to NIST DTSA-II](https://www.youtube.com/watch?v=K7w9WOIdVyY)
 *   [Introduction to Quantitative Analysis using NIST DTSA-II](https://www.youtube.com/watch?v=MoW5w0RFdrI)
@@ -11,15 +11,17 @@ This web site provides some basic documentation. Additional documentation can be
 *   [Understanding Peak Shape References](https://www.youtube.com/watch?v=nFQdpwL0d5Q)
 *   [Advanced Quantitative Analysis using NIST DTSA-II](https://www.youtube.com/watch?v=Roq1xd0CZdc)
 
-*   Download the demo K240 data from [here](K240example.zip)
+### Download the demo K240 data
 
-*   Introductions to DTSA-II
+* [K240 Demo Data](K240example.zip)
+
+### Introductions to DTSA-II
 
 *   [Introduction to DTSA-II](IntroductionToDTSA-II.pdf) from the Lehigh Microscopy School
 *   [Dale Newbury's NIST DTSA-II ("Son of DTSA"): Step-by-Step](DalesDTSA2Presentation.pdf) Presentation introducing DTSA-II and most of the basic functionality.
 *   [Examples of high quality quantifications performed with DTSA-II](Examples_of_high_quality_standards_based_analysis.pdf) You too can make similar robust, reliable measurements
 
-*   Basic information
+### Basic information
 
 *   [Configuring instruments and detectors](DTSA-II_Configuration.pdf):Basic information on setting up instrument and detector definitions.
 *   [Calibrating a detector](DTSA-II_Calibration.pdf): Discusses the hows and whys of calibrating a detector in DTSA-II.
@@ -30,14 +32,14 @@ This web site provides some basic documentation. Additional documentation can be
 *   [Introduction to Spectrum Simulation](DTSA2_Intro_to_simulation.pdf)
 *   [Using the material editor](DTSA2_The_Material_Editor.pdf) The material editor is your friend (if you'll get to know it.)
 
-*   Quality Control - Proving your instrument is working correctly
+### Quality Control - Proving your instrument is working correctly
 
 *   [The Faults and Foibles of EDS Detectors - 2016 edition](FaultsFoiblesEDS.pdf) How do SDDs work and what are the consequences. Also covers procedures to ensure that your detector is working optimally.
 *   [Introduction to QC](DTSA2_QC.pdf) How to ensure your measurements are reliable
 *   [Adding a QC spectrum](DTSA2_Quality_Control_Adding_a_QC_spectrum.pdf)
 *   [Generating a QC control chart](DTSA2_Quality_Control_Generating_a_report.pdf)
 
-*   Intermediate topics
+### Intermediate topics
 
 *   [Using Standard Bundles to simplify standards-based quantification](Standard_Bundles.pdf)
 *   [Using ζ-factors to quantify STEM unsupported thin film samples](Zeta-Factors.pdf)
@@ -46,12 +48,12 @@ This web site provides some basic documentation. Additional documentation can be
 *   [How spectra are quantified?](DTSA2_Mechanics_of_Quant.pdf) A little bit of insight into what DTSA-II does to convert spectra into measures of composition.
 *   [How to rename spectra](Renaming_spectra.pdf)
 
-*   Advanced: Scripting
+### Advanced: Scripting
 
 *   [Scripting quantification](DTSA-II_Scripting_quantification.pdf):Advanced scripting of spectrum quantification using DTSA-II and Python
 *   [Basic scripting in DTSA-II](Basic_scripting_in_DTSA-II.pdf): Introduces some basic concepts to get you started with the most powerful part of DTSA-II
 
-*   Other advanced topics
+### Other advanced topics
 
 *   [Moving DTSA-II from one computer to another](https://www.cstl.nist.gov/div837/837.02/epq/dtsa2/Moving%20DTSA-II.pdf): Move DTSA-II to another computer without losing important data
 *   [Customizing Line Colors in the Spectrum Display](https://www.cstl.nist.gov/div837/837.02/epq/dtsa2/SettingCustomSpectrumLineColors.pdf)
